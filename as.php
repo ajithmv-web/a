@@ -5,7 +5,8 @@ $a=$_GET["txtA"];
 $b=10;
 $c=$a / $b. "<br>";
 
-$d=intval($c). "<br>"; 
+$d=intval($c). "<br>";
+ 
 
 $x = $d;  
 $y = 10;
